@@ -13,7 +13,7 @@ const Sosanhbandosao = {
 
     Leo: { Aries: 96, Taurus: 67, Gemini: 89, Cancer: 4, Leo: 84, Virgo: 61, Libra: 92, Scorpio: 74, Sagittarius: 95, Capricorn: 57, Aquarius: 93, Pisces: 64 },
 
-    Virgo: { Aries: 56, Taurus: 93, Gemini: 64, Cancer: 89, Leo: 61, Virgo: 82, Libra: 73, Scorpio: 91, Sagittarius: 59, Capricorn: 95, Aquarius: 62, Pisces: 86 },
+    Virgo: { Aries: 56, Taurus: 93, Gemini: 64, Cancer: 89, Leo: 61, Virgo: 82, Libra: 73, Scorpio: 99, Sagittarius: 59, Capricorn: 95, Aquarius: 62, Pisces: 86 },
 
     Libra: { Aries: 42, Taurus: 76, Gemini: 94, Cancer: 67, Leo: 91, Virgo: 72, Libra: 86, Scorpio: 79, Sagittarius: 87, Capricorn: 64, Aquarius: 92, Pisces: 77 },
 
